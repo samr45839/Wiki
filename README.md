@@ -1,4 +1,4 @@
-# CS50 Web 2020 Project 1: Wiki
+# CS50 Web 2022 Project 1: Wiki
 
 ## CS50 Web - Programming with Python and JavaScript
 
